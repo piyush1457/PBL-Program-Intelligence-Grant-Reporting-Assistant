@@ -30,7 +30,7 @@ export default function RootLayout({
         <Sidebar />
         
         {/* Main Workspace Panel */}
-        <main className="flex-1 ml-64 min-h-screen flex flex-col p-8 md:p-10 max-w-7xl overflow-x-hidden relative">
+        <main className="flex-1 ml-0 lg:ml-64 min-h-screen flex flex-col p-6 pt-20 lg:p-10 max-w-7xl overflow-x-hidden relative">
           {children}
         </main>
       </body>
