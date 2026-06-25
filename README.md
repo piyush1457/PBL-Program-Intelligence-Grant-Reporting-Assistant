@@ -2,6 +2,8 @@
 
 A responsive full-stack program intelligence system built for **Mantra4Change** to process school-level project-based learning (PBL) response data, calculate deterministic risk indicators, prepare leadership agendas, and assemble donor-ready grant reports.
 
+🚀 **Live Link**: [PBL Program Intelligence & Grant Reporting Assistant](https://pbl-program-intelligence-grant-reporting.onrender.com/)
+
 ---
 
 ## Setup Instructions
