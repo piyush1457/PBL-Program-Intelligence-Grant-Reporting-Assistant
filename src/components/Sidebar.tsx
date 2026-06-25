@@ -67,7 +67,7 @@ export default function Sidebar() {
 
       <aside className={cn(
         "w-64 border-r border-slate-200/80 dark:border-zinc-800/80 bg-white/90 dark:bg-zinc-950/90 backdrop-blur-xl flex flex-col h-screen fixed left-0 top-0 z-30 transition-transform duration-300 ease-in-out lg:translate-x-0",
-        isOpen ? "translate-x-0" : "-translate-x-full"
+        isOpen ? "translate-x-0 open" : "-translate-x-full"
       )}>
         {/* Brand Header */}
         <div className="p-6 border-b border-slate-100 dark:border-zinc-900/80 flex items-center gap-3">
